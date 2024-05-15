@@ -7,7 +7,7 @@ const Basket = () => {
   const { products, total } = useContext(StoreContext);
 
   return (
-    <div className="w-full max-w-3xl mx-auto">
+    <div className="w-full max-w-2xl mx-auto">
       <Navbar />
       <div className="flex flex-row items-center justify-between mt-2 py-6 px-10 text-xl font-medium">
         <h3 className="">Your Basket</h3>
