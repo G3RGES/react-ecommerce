@@ -1,31 +1,30 @@
 export const storeData = [
   {
-    name: "Aviator Sunglasses",
-    price: 50,
-    image:
-      "https://images-na.ssl-images-amazon.com/images/I/61UXx%2Bs33YL._SS400_.jpg",
+    name: "Browline Glasses",
+    price: 100,
+    image: "https://i.ebayimg.com/images/g/BJwAAOSwAOxiK~dF/s-l1200.jpg",
   },
   {
     name: "Cat-Eye Sunglasses",
     price: 75,
     image:
-      "https://img.kwcdn.com/product/open/2023-11-26/1701011269957-b4d577727a0444d9b74b27385889fe88-goods.jpeg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/webp",
+      "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/42/298962/1.jpg",
   },
   {
     name: "Round Sunglasses",
     price: 40,
     image:
-      "https://img.kwcdn.com/product/fancy/53a25832-f974-4d94-9e73-09fc6dd717b8.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/webp",
+      "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/85/019744/1.jpg",
   },
   {
     name: "Wayfarer Sunglasses",
     price: 60,
-    image:
-      "https://images2.ray-ban.com//cdn-record-files-pi/9ec26c0f-3ff5-4a70-9a55-b07c006d58d7/d1a70e34-6d2a-4988-8b89-b07c006d5bd7/0RW4006__601_71__P21__shad__qt.png?impolicy=RB_Product_clone&width=800&bgc=%23f2f2f2",
+    image: "https://i.ebayimg.com/images/g/gw0AAOSwgX9clmYu/s-l1200.webp",
   },
   {
     name: "Pilot Sunglasses",
     price: 80,
-    image: "https://m.media-amazon.com/images/I/41JMqLoaAsL._AC_SY580_.jpg",
+    image:
+      "https://ae01.alicdn.com/kf/A8a5e16b832d44b68b360ef2741234d9en/Aviation-Men-Polarized-Sunglasses-Frames-for-Men-Pilot-Sun-Glasses-Metal-Light-Flexible-Fashionable-Modern-Gold.jpg",
   },
 ];
