@@ -10,7 +10,7 @@ const BasketProduct = ({ item }) => {
 
   return (
     <div
-      className="flex flex-row mx-1 my-1 w-full max-w-3xl
+      className="flex flex-row mx-1 my-1 w-full max-w-2xl
        border border-gray-200 rounded-lg 
      "
     >
